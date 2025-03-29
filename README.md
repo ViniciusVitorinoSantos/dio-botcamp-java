@@ -1,8 +1,6 @@
 # 📌 ContaBanco - Java Project
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=black)](https://www.java.com)
-![GitHub](https://img.shields.io/github/license/your-username/ContaBanco?style=for-the-badge&color=black)](https://github.com/your-username/ContaBanco)
-
 
 ### 📲 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvitorinodossantos)
