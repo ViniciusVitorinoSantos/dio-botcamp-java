@@ -1,6 +1,7 @@
 # 📌 ContaBanco - Java Project
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=black)](https://www.java.com)
+[![JavaDoc](https://img.shields.io/badge/JavaDoc-007396?style=for-the-badge&logo=java&logoColor=white&color=black)](https://docs.oracle.com/en/java/)
 
 
 ### 📲 Connect with me:
