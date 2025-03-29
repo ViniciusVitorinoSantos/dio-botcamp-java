@@ -1,7 +1,6 @@
 # 📌 ContaBanco - Java Project
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 ![GitHub](https://img.shields.io/github/license/your-username/ContaBanco?style=for-the-badge)
 
 ### 📲 Connect with me:
